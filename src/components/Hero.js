@@ -7,6 +7,7 @@ const PHRASES = [
   'init portfolio.js',
   'git push origin main',
   'npm run build',
+  'python transformer.py',
 ];
 
 function useTyped() {

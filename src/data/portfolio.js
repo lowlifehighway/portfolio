@@ -105,6 +105,46 @@ export const projects = [
     docs: 'https://github.com/lowlifehighway/budgetbuddy#readme',
     demo: 'https://budget-buddy-phi-kohl.vercel.app/',
   },
+  {
+    num: '07',
+    title: 'Calculator App',
+    desc: 'A simple calculator app built with vanilla html and js.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/lowlifehighway/Frontend-Mentor-Calculator-app',
+    demo: 'https://frontend-mentor-calculator-app-zeta.vercel.app/',
+  },
+  {
+    num: '07',
+    title: 'Calculator App',
+    desc: 'A simple calculator app built with vanilla html and js.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/lowlifehighway/Frontend-Mentor-Calculator-app',
+    demo: 'https://frontend-mentor-calculator-app-zeta.vercel.app/',
+  },
+  {
+    num: '08',
+    title: 'CinemaNest',
+    desc: 'A movie database website that allows you to view trending movies, look up details, and discover new releases.',
+    tech: ['React', 'CSS', 'Node.js', 'Express', 'The Movie Database API'],
+    github: 'https://github.com/lowlifehighway/CinemaNest',
+    demo: 'https://cinemanest.vercel.app/',
+  },
+  {
+    num: '09',
+    title: 'Space Tourism Website',
+    desc: 'A space tourism website that allows you to explore different planets and view technology and steps involved in space travel.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/lowlifehighway/spacetourismwebsite',
+    demo: 'https://lowlifehighway.github.io/spacetourismwebsite/',
+  },
+  {
+    num: '10',
+    title: 'Climate Explorer',
+    desc: 'A Python data analysis project that fetches real NASA GISS global surface temperature data, analyzes trends since 1880, and generates clean visualizations.',
+    tech: ['Python', 'Pandas', 'Matplotlib', 'NumPy'],
+    github: 'https://github.com/lowlifehighway/climate-explorer',
+    docs: 'https://github.com/lowlifehighway/climate-explorer#readme',
+  },
 ];
 
 export const experience = [
