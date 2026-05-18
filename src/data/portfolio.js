@@ -114,14 +114,6 @@ export const projects = [
     demo: 'https://frontend-mentor-calculator-app-zeta.vercel.app/',
   },
   {
-    num: '07',
-    title: 'Calculator App',
-    desc: 'A simple calculator app built with vanilla html and js.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/lowlifehighway/Frontend-Mentor-Calculator-app',
-    demo: 'https://frontend-mentor-calculator-app-zeta.vercel.app/',
-  },
-  {
     num: '08',
     title: 'CinemaNest',
     desc: 'A movie database website that allows you to view trending movies, look up details, and discover new releases.',
@@ -145,6 +137,21 @@ export const projects = [
     github: 'https://github.com/lowlifehighway/climate-explorer',
     docs: 'https://github.com/lowlifehighway/climate-explorer#readme',
   },
+  {
+    num: '11',
+    title: 'Culver Messaging App',
+    desc: 'A simple messaging app that allows for secure end to end messaging.',
+    tech: [
+      'React TypeScript',
+      'Node.js',
+      'Yarn',
+      'Firebase Auth',
+      'Redis',
+      'PostgreSQL',
+    ],
+    github: 'https://github.com/iota-org/Culver-backend',
+    docs: 'https://docs.google.com/document/d/1ZvM9SbK-Yd0_k6jmXV6Ve_bKabbqaTkEM8e20alKLBA/edit',
+  },
 ];
 
 export const experience = [
@@ -158,11 +165,7 @@ export const experience = [
     date: '2021 — Present',
     role: 'Software Engineer',
     company: 'Freelance',
-    bullets: [
-      'Led backend architecture for a microservices migration serving 2M+ users',
-      'Reduced API latency by 40% through query optimization and caching strategies',
-      'Mentored a team of 4 junior engineers and conducted technical interviews',
-    ],
+    bullets: ['Built scalable web apps for clients'],
   },
   {
     date: '2025',
