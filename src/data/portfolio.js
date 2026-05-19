@@ -22,9 +22,15 @@ export const about = {
     name: 'Ayoola Victor',
     role: 'Engineer || Analyst',
     location: 'Lagos, NG',
-    languages: ['TypeScript', 'Python', 'JavaScript'],
+    languages: [
+      'TypeScript',
+      'Python',
+      'JavaScript',
+      'Node.js',
+      'React',
+      'Next.js',
+    ],
     available: true,
-    coffee: 'required',
   },
 };
 
