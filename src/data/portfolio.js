@@ -198,12 +198,22 @@ export const experience = [
 export const blog = [
   {
     tag: 'System Design',
-    date: 'Apr 2025',
+    date: 'Apr 2026',
     readTime: '8 min read',
     title: 'Staying Open for Business on the Busiest Internet Shopping Day',
     excerpt:
       "How Node.js's cluster module and graceful shutdown logic keep your e-commerce server alive—and serving—during a Black Friday spike that would kill a naive single-process app.",
     href: 'https://dev.to/lowlifehighway/staying-open-for-business-on-the-busiest-internet-shopping-day-2gdd',
+  },
+  {
+    tag: ['System Design', 'Security', 'Backend', 'Frontend'],
+    date: 'May 2026',
+    readTime: '8 min read',
+    title:
+      'How My Team from Risevest Academy and I Built an End-to-End Encrypted Messaging App in 3 Weeks',
+    excerpt:
+      'My experience building a secure, realtime end-to-end encrypted messaging platform. Complete with push notifications, websocket messaging, media sharing, etc.',
+    href: 'https://dev.to/lowlifehighway/how-my-team-from-risevest-academy-and-i-built-an-end-to-end-encrypted-messaging-app-in-3-weeks-2ib5',
   },
 ];
 
