@@ -28,7 +28,7 @@ export default function Blog() {
               style={{ background: 'var(--card)' }}
             >
               <div className="flex items-center flex-wrap gap-3 mb-4 font-mono text-[11px] text-(--tx3)">
-                {post.tag.map((tag) => (
+                {post.tags.map((tag) => (
                   <span
                     key={tag}
                     className="px-2 py-0.5 text-[10px] text-(--accent) bg-(--accent)/8"

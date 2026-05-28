@@ -197,7 +197,7 @@ export const experience = [
 
 export const blog = [
   {
-    tag: 'System Design',
+    tags: ['System Design', 'Backend', 'Node.js', 'Performance'],
     date: 'Apr 2026',
     readTime: '8 min read',
     title: 'Staying Open for Business on the Busiest Internet Shopping Day',
@@ -206,7 +206,7 @@ export const blog = [
     href: 'https://dev.to/lowlifehighway/staying-open-for-business-on-the-busiest-internet-shopping-day-2gdd',
   },
   {
-    tag: ['System Design', 'Security', 'Backend', 'Frontend'],
+    tags: ['System Design', 'FullStack', 'Node.js', 'Typescript'],
     date: 'May 2026',
     readTime: '8 min read',
     title:
